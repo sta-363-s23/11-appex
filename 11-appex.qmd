@@ -1,0 +1,15 @@
+---
+title: "Penalized Regression"
+format: html
+editor: visual
+---
+
+```{r}
+#| label: load-packages
+#| message: false
+#| warning: false
+library(tidyverse)
+library(tidymodels)
+library(ISLR)
+data(Hitters)
+```
